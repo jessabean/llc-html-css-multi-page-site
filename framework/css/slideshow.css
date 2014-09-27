@@ -11,7 +11,7 @@
 .delayed,
 .delayed-children > * {
 	transition:.5s;
-	transition-property: transform, opacity, left, top, right, bottom, background;
+	transition-property: opacity, left, top, right, bottom, background;
 }
 
 /**
